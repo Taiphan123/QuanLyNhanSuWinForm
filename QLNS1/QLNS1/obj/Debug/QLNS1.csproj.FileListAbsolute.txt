@@ -1,0 +1,40 @@
+F:\Lat vat\CNPM\DACNPM\QLNS1\QLNS1\bin\Debug\QLNS1.exe.config
+F:\Lat vat\CNPM\DACNPM\QLNS1\QLNS1\bin\Debug\QLNS1.exe
+F:\Lat vat\CNPM\DACNPM\QLNS1\QLNS1\bin\Debug\QLNS1.pdb
+F:\Lat vat\CNPM\DACNPM\QLNS1\QLNS1\obj\Debug\QLNS1.csprojAssemblyReference.cache
+F:\Lat vat\CNPM\DACNPM\QLNS1\QLNS1\obj\Debug\QLNS1.QLNS.resources
+F:\Lat vat\CNPM\DACNPM\QLNS1\QLNS1\obj\Debug\QLNS1.Properties.Resources.resources
+F:\Lat vat\CNPM\DACNPM\QLNS1\QLNS1\obj\Debug\QLNS1.csproj.GenerateResource.cache
+F:\Lat vat\CNPM\DACNPM\QLNS1\QLNS1\obj\Debug\QLNS1.csproj.CoreCompileInputs.cache
+F:\Lat vat\CNPM\DACNPM\QLNS1\QLNS1\obj\Debug\QLNS1.exe
+F:\Lat vat\CNPM\DACNPM\QLNS1\QLNS1\obj\Debug\QLNS1.pdb
+F:\Lat vat\CNPM\DACNPM\QLNS1\QLNS1\obj\Debug\QLNS1.Hoso.resources
+F:\Lat vat\CNPM\DACNPM\QLNS1\QLNS1\obj\Debug\QLNS1.SuaNv.resources
+F:\Lat vat\CNPM\DACNPM\QLNS1\QLNS1\obj\Debug\QLNS1.ThemNv.resources
+F:\Lat vat\CNPM\DACNPM\QLNS1\QLNS1\obj\Debug\QLNS1.ChamCong.resources
+F:\Lat vat\CNPM\DACNPM\QLNS1\QLNS1\obj\Debug\QLNS1.PhongBan.resources
+F:\Lat vat\CNPM\DACNPM\QLNS1\QLNS1\obj\Debug\QLNS1.ChiTietHs.resources
+F:\Lat vat\CNPM\DACNPM\QLNS1\QLNS1\obj\Debug\QLNS1.ChucVu.resources
+C:\Users\ADMIN\Downloads\QLNS1-20200403T170222Z-001\QLNS1\QLNS1\bin\Debug\QLNS1.exe.config
+C:\Users\ADMIN\Downloads\QLNS1-20200403T170222Z-001\QLNS1\QLNS1\obj\Debug\QLNS1.exe
+C:\Users\ADMIN\Downloads\QLNS1-20200403T170222Z-001\QLNS1\QLNS1\obj\Debug\QLNS1.pdb
+C:\Users\ADMIN\Downloads\QLNS1-20200403T170222Z-001\QLNS1\QLNS1\bin\Debug\QLNS1.exe
+C:\Users\ADMIN\Downloads\QLNS1-20200403T170222Z-001\QLNS1\QLNS1\bin\Debug\QLNS1.pdb
+C:\Users\ADMIN\Downloads\QLNS1-20200403T170222Z-001\QLNS1\QLNS1\obj\Debug\QLNS1.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Downloads\QLNS1-20200403T170222Z-001\QLNS1\QLNS1\obj\Debug\QLNS1.ChamCong.resources
+C:\Users\ADMIN\Downloads\QLNS1-20200403T170222Z-001\QLNS1\QLNS1\obj\Debug\QLNS1.ChiTietHs.resources
+C:\Users\ADMIN\Downloads\QLNS1-20200403T170222Z-001\QLNS1\QLNS1\obj\Debug\QLNS1.ChucVu.resources
+C:\Users\ADMIN\Downloads\QLNS1-20200403T170222Z-001\QLNS1\QLNS1\obj\Debug\QLNS1.QLNS.resources
+C:\Users\ADMIN\Downloads\QLNS1-20200403T170222Z-001\QLNS1\QLNS1\obj\Debug\QLNS1.Hoso.resources
+C:\Users\ADMIN\Downloads\QLNS1-20200403T170222Z-001\QLNS1\QLNS1\obj\Debug\QLNS1.PhongBan.resources
+C:\Users\ADMIN\Downloads\QLNS1-20200403T170222Z-001\QLNS1\QLNS1\obj\Debug\QLNS1.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\QLNS1-20200403T170222Z-001\QLNS1\QLNS1\obj\Debug\QLNS1.SuaNv.resources
+C:\Users\ADMIN\Downloads\QLNS1-20200403T170222Z-001\QLNS1\QLNS1\obj\Debug\QLNS1.ThemNv.resources
+C:\Users\ADMIN\Downloads\QLNS1-20200403T170222Z-001\QLNS1\QLNS1\obj\Debug\QLNS1.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Downloads\QLNS1-20200403T170222Z-001\QLNS1\QLNS1\obj\Debug\QLNS1.Login.resources
+C:\Users\ADMIN\Downloads\QLNS1-20200403T170222Z-001\QLNS1\QLNS1\obj\Debug\QLNS1.XoaNV.resources
+C:\Users\ADMIN\Downloads\QLNS1-20200403T170222Z-001\QLNS1\QLNS1\obj\Debug\QLNS1.BaoCaoNV.resources
+C:\Users\ADMIN\Downloads\QLNS1-20200403T170222Z-001\QLNS1\QLNS1\obj\Debug\QLNS1.ThemPB.resources
+C:\Users\ADMIN\Downloads\QLNS1-20200403T170222Z-001\QLNS1\QLNS1\obj\Debug\QLNS1.BaoCao1.resources
+C:\Users\ADMIN\Downloads\QLNS1-20200403T170222Z-001\QLNS1\QLNS1\obj\Debug\QLNS1.LuongThuong.resources
+C:\Users\ADMIN\Downloads\QLNS1-20200403T170222Z-001\QLNS1\QLNS1\obj\Debug\QLNS1.ChinhSuaPB.resources
